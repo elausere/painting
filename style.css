@@ -1,0 +1,16 @@
+/* Optional CSS Styling */
+
+/* Center to page */
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* diagnostic styling */
+section {
+  background: var(--main-bg-color);
+  border-radius: 3em;
+}
+
